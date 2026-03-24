@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function(){
     let pathname = window.location.pathname;
-
+    console.log(pathname);
     if (pathname === "/Website-Demo/index.html"){
         alert("Welcome to The Band's official website! Get ready to explore our story, our journey, and the music we love.");
     } else if (pathname === "/Website-Demo/john.html"){
