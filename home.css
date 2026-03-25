@@ -17,6 +17,7 @@
 }
 .section-1 p{
     font-size: 24px;
+    text-wrap: balance;
     opacity: 60%;
 }
 
